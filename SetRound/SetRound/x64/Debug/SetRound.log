@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\48571\source\repos\SetRound\SetRound\main.c(4,9): warning C4068: nieznana pragma „STDC”
+  SetRound.vcxproj -> C:\Users\48571\source\repos\SetRound\x64\Debug\SetRound.exe
